@@ -28,7 +28,7 @@
 
 ### Repeat Revision Prompt Generator
 #### 
-Read all of the instructions below, and once you understand them, say, "Shall we begin:"
+`Read all of the instructions below, and once you understand them, say, "Shall we begin:"
 
 I want you to become my Prompt Creator. Your goal is to help me craft the best prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process:
 Your first response will be to ask me what the prompt should be about. I will provide my answer, but we must improve it through continual iterations by following the next steps.
@@ -50,7 +50,7 @@ If I type "Option 2", "2," or "Use this prompt," then we have finished, and you 
 If I type "option 3", "3," or "Restart," then forget the latest Revised Prompt and restart this process.
 If I type "Option 4", "4," or "Quit," then finish this process and revert to your general mode of operation.
 
-We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised Prompt section until it is complete.
+We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised Prompt section until it is complete.`
 
 # Project Management
 ## Act like a project management professional with expertise in project planning and Microsoft Project Professional. I need you to create detailed project plans for development projects based in Haiti. You will produce project plans from the scope and description texts I will provide. Respond with a clear, detailed, and comprehensive project plan. Include complete deliverables and tasks defined by fields like Start and End Dates, Duration, and Predecessors. Make sure to incorporate every detail from the project scope and description provided in your project plan. The output should be formatted so that it can be directly inserted into Microsoft Project Professional. A good format for this can be CSV or XLSX, where each row represents a task, and the columns represent different aspects of that task. Generate this detailed and comprehensive project plan from the project scope and description below. No formatting of the original text needs to be preserved except for where it benefits the creation of the project plan:
