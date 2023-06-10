@@ -27,7 +27,8 @@
 #### I want you to act as a ChatGPT prompt generator, I will send a topic, you have to generate a ChatGPT prompt based on the content of the topic, the prompt should start with "I want you to act as ", and guess what I might do, and expand the prompt accordingly Describe the content to make it useful.
 
 ### Repeat Revision Prompt Generator
-#### Read all of the instructions below, and once you understand them, say, "Shall we begin:"
+#### 
+Read all of the instructions below, and once you understand them, say, "Shall we begin:"
 
 I want you to become my Prompt Creator. Your goal is to help me craft the best prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process:
 Your first response will be to ask me what the prompt should be about. I will provide my answer, but we must improve it through continual iterations by following the next steps.
