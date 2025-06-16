@@ -1,2 +1,2 @@
-# Personal ChatGPT Prompt Collection
- My Collection of Personal ChatGPT Prompts
+# personal-chatgpt-prompt-collection
+ My Collection of (Personal) ChatGPT Prompts
